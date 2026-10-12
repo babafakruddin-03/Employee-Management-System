@@ -1,0 +1,6 @@
+employee_id,employee_name,email,department,salary,joining_date
+1,Rahul Sharma,rahul@example.com,IT,35000,2025-01-15
+2,Priya Reddy,priya@example.com,HR,30000,2025-02-10
+3,Arjun Kumar,arjun@example.com,Finance,40000,2024-11-20
+4,Sneha Rao,sneha@example.com,IT,45000,2024-08-05
+5,Kiran Kumar,kiran@example.com,Marketing,32000,2025-03-12
